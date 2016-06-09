@@ -13,7 +13,6 @@ permalink: /about/
 <i class="fa fa-chevron-right" aria-hidden="true"></i> Xenon Pharmaceuticals <br>
 <i class="fa fa-chevron-right" aria-hidden="true"></i> Linkage analysis of rare disease phenotypes<br>
 
-<br>
 <hr />
 <h2>Education</h2>
 <p><h3>PhD <sup>2011-2016</sup></h3></p>
