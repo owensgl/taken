@@ -12,6 +12,7 @@ permalink: /publications/
 * Irwin DE, Alcaide M, Delmore KE, Irwin JH, <em>Owens GL</em>: Recurrent selection explains genomic regions of high relative but low absolute differentiation in the greenish warbler ring species. bioRxiv 2016 041467 [[link]](http://biorxiv.org/content/early/2016/02/26/041467.abstract)
 
 * <em>Owens GL</em>, Baute GJ, Rieseberg LH: Revisiting a classic case of introgression: Hybridization and gene flow in Californian sunflowers. Molecular Ecology 2016 25: 2630-2643 [[PDF]](Owens2016.pdf)
+
 * Renaut S, <em>Owens GL</em>, Rieseberg LH: Shared selective pressure and local genomic landscape lead to repeatable patterns of genomic divergence in sunflowers. Molecular Ecology 2014 23:311-324 [[PDF]](Renaut2014.pdf)
 
 * <em>Owens GL</em> and Rieseberg LH: Hybrid incompatibility is acquired faster in annual than in perennial species of sunflower and tarweed. Evolution 2014 68:893-900 [[PDF]](Owens2014.pdf)
