@@ -1,18 +1,17 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Greg Owens 
+email: gregory.owens@alumni.ubc.ca
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # Sidebar settings
-description: One sentence introducing yourself or what you do
+description: Evolution, hybridization, genomes
 
 # Social icons
-facebook: username
-linkedin: username
-github: username
-deviantart: username
-codepen: username
+google: fMPIb8sAAAAJ
+linkedin: gregory-owens-34434b100
+github: owensgl
+
 
 footer: © Taken theme
 
