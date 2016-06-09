@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Bio
-permalink: /bio/
+title: About
+permalink: /about/
 ---
 
 <h1>Education</h1>
