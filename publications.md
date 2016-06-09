@@ -1,4 +1,8 @@
-[Google Scholar link](http://scholar.google.ca/citations?user=fMPIb8sAAAAJ&hl=en)
+---
+layout: page
+title: science
+permalink: /science/
+---
 
 * Renaut S, **Owens GL**, Rieseberg LH: Shared selective pressure and local genomic landscape lead to repeatable patterns of genomic divergence in sunflowers. *Molecular Ecology* 2014 23:311-324 [[PDF]](Renaut2014.pdf)
 
