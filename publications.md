@@ -3,8 +3,9 @@ layout: page
 title: publications
 permalink: /publications/
 ---
-* Delmore KE, Toews D, Germain R, Owens GL, Irwin DE: The genetics of seasonal migration and plumage color. Current Biology 2016 In Press
-* Rennison DJ, Owens GL, Heckman N, Schluter D, Veen T: Rapid adaptive evolution of colour vision in the threespine stickleback radiation. Proceedings of the Royal Society B 2016 283 20160242 [[PDF]](Rennison2016.pdf)
+* Delmore KE, Toews D, Germain R, <em>Owens GL</em>, Irwin DE: The genetics of seasonal migration and plumage color. Current Biology 2016 In Press
+
+* Rennison DJ, <em>Owens GL</em>, Heckman N, Schluter D, Veen T: Rapid adaptive evolution of colour vision in the threespine stickleback radiation. Proceedings of the Royal Society B 2016 283 20160242 [[PDF]](Rennison2016.pdf)
 
 * Todesco M, Pascual MA, <em>Owens GL</em>, Ostevik KL, Moyers BT, Hübner S, Heredia SM, Hahn MA, Caseys C, Bock DG, Rieseberg LH: Hybridization and extinction. Evolutionary Applications 2016 12367 [[PDF]](Todesco2016.pdf)
 
