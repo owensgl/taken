@@ -14,7 +14,7 @@ permalink: /about/
 <i class="fa fa-chevron-right" aria-hidden="true"></i> Linkage analysis of rare disease phenotypes<br>
 
 <br>
-***
+<hr />
 <h2>Education</h2>
 <p><h3>PhD <sup>2011-2016</sup></h3></p>
 <i class="fa fa-chevron-right" aria-hidden="true"></i> Loren Rieseberg <br>
@@ -24,5 +24,5 @@ The genomic profiles of potential and confirmed sunflower hybrid species <br>
 
 <p><h3>MSc <sup>2008-2010</sup></h3></p>
 <i class="fa fa-chevron-right" aria-hidden="true"></i> John Taylor <br>
-<i class="fa fa-chevron-right" aria-hidden="true"></i> Examining expression of nine opsin genes in the split retina of the “four-eyed” fish, <i>Anableps anableps</i>, using in situ hybridization <br>
+<i class="fa fa-chevron-right" aria-hidden="true"></i> Examining expression of nine opsin genes in the split retina of the “four-eyed” fish, <i>Anableps anableps</i><br>
 <i class="fa fa-chevron-right" aria-hidden="true"></i> University of Victoria <br>
