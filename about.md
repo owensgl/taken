@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Bio
+permalink: /bio/
 ---
 
-Taken is a two column minimalist Jekyll theme.
+<h1>Education</h1>
+<p>PhD - Loren Rieseberg - University of British Columbia - 2016</p>
+<p>Hybridization in <i>Helianthus</i>:
+The genomic profiles of potential and confirmed sunflower hybrid species.</p>
 
-Taken is based on [chapter tumblr theme.](http://theme-chapter.tumblr.com/)
-
-You can fork taken from [here.](https://github.com/vfalanis/taken)
