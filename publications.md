@@ -4,7 +4,7 @@ title: publications
 permalink: /publications/
 ---
 
-* Renaut S, <em>Owens GL</em>, Rieseberg LH: Shared selective pressure and local genomic landscape lead to repeatable patterns of genomic divergence in sunflowers. Molecular Ecology 2014 23:311-324 [[PDF]](Renaut2014.pdf)
+* Renaut S, <em>Owens GL</em>, Rieseberg LH: Shared selective pressure and local genomic landscape lead to repeatable patterns of genomic divergence in sunflowers. Molecular Ecology 2014 23:311-324 [[PDF]](pub/Renaut2014.pdf)
 
 * <em>Owens GL</em> and Rieseberg LH: Hybrid incompatibility is acquired faster in annual than in perennial species of sunflower and tarweed. Evolution 2014 68:893-900 [[PDF]](Owens2014.pdf)
  
