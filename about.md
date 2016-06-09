@@ -7,7 +7,7 @@ permalink: /about/
 <h3></h3>
 
 <h2>Education</h2>
-<p><h5>PhD 2016</h3></p>
+<p><h3>PhD 2016</h3></p>
 <i class="fa fa-chevron-right" aria-hidden="true"></i> Loren Rieseberg <br>
 <i class="fa fa-chevron-right" aria-hidden="true"></i> Hybridization in <i>Helianthus</i>:
 The genomic profiles of potential and confirmed sunflower hybrid species <br>
