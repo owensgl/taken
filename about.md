@@ -3,9 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
+<h2>Employment<h2>
+<h3></h3>
 
-<h1>Education</h1>
-<p><h3>PhD 2016</h3></p>
+<h2>Education</h2>
+<p><h5>PhD 2016</h3></p>
 <i class="fa fa-chevron-right" aria-hidden="true"></i> Loren Rieseberg <br>
 <i class="fa fa-chevron-right" aria-hidden="true"></i> Hybridization in <i>Helianthus</i>:
 The genomic profiles of potential and confirmed sunflower hybrid species <br>
