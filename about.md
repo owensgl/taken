@@ -6,8 +6,12 @@ permalink: /about/
 
 <h1>Education</h1>
 <p>PhD 2016</p>
-Supervisor <i class="fa fa-arrow-right" aria-hidden="true"></i> Loren Rieseberg <br>
-Title <i class="fa fa-arrow-right" aria-hidden="true"></i> Hybridization in <i>Helianthus</i>:
+<i class="fa fa-arrow-right" aria-hidden="true"></i> Loren Rieseberg <br>
+<i class="fa fa-arrow-right" aria-hidden="true"></i> Hybridization in <i>Helianthus</i>:
 The genomic profiles of potential and confirmed sunflower hybrid species <br>
-Institute <i class="fa fa-arrow-right" aria-hidden="true"></i> University of British Columbia <br>
+<i class="fa fa-arrow-right" aria-hidden="true"></i> University of British Columbia <br>
 
+<p>MSc 2010</p>
+<i class="fa fa-arrow-right" aria-hidden="true"></i> John Taylor <br>
+<i class="fa fa-arrow-right" aria-hidden="true"></i> Examining expression of nine opsin genes in the split retina of the “four-eyed” fish, <i>Anableps anableps</i>, using in situ hybridization <br>
+<i class="fa fa-arrow-right" aria-hidden="true"></i> University of Victoria <br>
