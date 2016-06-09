@@ -5,7 +5,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # Sidebar settings
-description: Evolution, hybridization, genomes
+description: evolution, hybridization, genomes, cool shit
 
 # Social icons
 google_scholar: fMPIb8sAAAAJ
