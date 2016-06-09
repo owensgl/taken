@@ -14,7 +14,7 @@ permalink: /about/
 <i class="fa fa-chevron-right" aria-hidden="true"></i> Linkage analysis of rare disease phenotypes<br>
 
 
----
+****
 <h2>Education</h2>
 <p><h3>PhD 2011-2016</h3></p>
 <i class="fa fa-chevron-right" aria-hidden="true"></i> Loren Rieseberg <br>
