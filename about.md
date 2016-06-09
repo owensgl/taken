@@ -13,10 +13,10 @@ permalink: /about/
 <i class="fa fa-chevron-right" aria-hidden="true"></i> Xenon Pharmaceuticals <br>
 <i class="fa fa-chevron-right" aria-hidden="true"></i> Linkage analysis of rare disease phenotypes<br>
 
-
+<br>
 ****
 <h2>Education</h2>
-<p><h3>PhD 2011-2016</h3></p>
+<p><h3>PhD <sub>2011-2016</sub></h3></p>
 <i class="fa fa-chevron-right" aria-hidden="true"></i> Loren Rieseberg <br>
 <i class="fa fa-chevron-right" aria-hidden="true"></i> Hybridization in <i>Helianthus</i>:
 The genomic profiles of potential and confirmed sunflower hybrid species <br>
