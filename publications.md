@@ -4,6 +4,7 @@ title: publications
 permalink: /publications/
 ---
 * Baute GJ\*, <em>Owens GL</em>\*, Bock DG, Rieseberg LH: Genome-wide GBS data provide a high-resolution view of wild Helianthus diversity, genetic structure and interspecies gene flow. American Journal of Botany. Under review.
+
 \*Co-first authors.
 
 * Delmore KE, Toews D, Germain R, <em>Owens GL</em>, Irwin DE: The genetics of seasonal migration and plumage color. Current Biology 2016 26 2167–2173. [[PDF]](Delmore2016.pdf)
