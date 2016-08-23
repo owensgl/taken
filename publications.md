@@ -12,7 +12,7 @@ permalink: /publications/
 
 * Todesco M, Pascual MA, <em>Owens GL</em>, Ostevik KL, Moyers BT, Hübner S, Heredia SM, Hahn MA, Caseys C, Bock DG, Rieseberg LH: Hybridization and extinction. Evolutionary Applications 2016 12367 [[PDF]](Todesco2016.pdf)
 
-* Irwin DE, Alcaide M, Delmore KE, Irwin JH, <em>Owens GL</em>: Recurrent selection explains genomic regions of high relative but low absolute differentiation in the greenish warbler ring species. bioRxiv 2016 041467 [[link]](http://biorxiv.org/content/early/2016/02/26/041467.abstract)
+* Irwin DE, Alcaide M, Delmore KE, Irwin JH, <em>Owens GL</em>: Recurrent selection explains genomic regions of high relative but low absolute differentiation in the greenish warbler ring species. Molecular Ecology 2016 [[PDF]](Irwin2016.pdf) [[link]](http://biorxiv.org/content/early/2016/02/26/041467.abstract)
 
 * <em>Owens GL</em>, Baute GJ, Rieseberg LH: Revisiting a classic case of introgression: Hybridization and gene flow in Californian sunflowers. Molecular Ecology 2016 25: 2630-2643 [[PDF]](Owens2016.pdf)
 
