@@ -3,9 +3,7 @@ layout: page
 title: publications
 permalink: /publications/
 ---
-* Baute GJ\*, <em>Owens GL</em>\*, Bock DG, Rieseberg LH: Genome-wide GBS data provide a high-resolution view of wild Helianthus diversity, genetic structure and interspecies gene flow. American Journal of Botany. Under review.
-
-\*Co-first authors.
+* Baute GJ\*, <em>Owens GL</em>\*, Bock DG, Rieseberg LH: Genome-wide GBS data provide a high-resolution view of wild Helianthus diversity, genetic structure and interspecies gene flow. **American Journal of Botany**. Under review. *Co-first authors.
 
 * Delmore KE, Toews D, Germain R, <em>Owens GL</em>, Irwin DE: The genetics of seasonal migration and plumage color. Current Biology 2016 26 2167–2173. [[PDF]](Delmore2016.pdf)
 
@@ -19,8 +17,7 @@ permalink: /publications/
 
 * Renaut S, <em>Owens GL</em>, Rieseberg LH: Shared selective pressure and local genomic landscape lead to repeatable patterns of genomic divergence in sunflowers. Molecular Ecology 2014 23:311-324 [[PDF]](Renaut2014.pdf)
 
-* <em>Owens GL</em> and Rieseberg LH: Hybrid incompatibility is acquired faster in annual than in perennial species of sunflower and tarweed. Evolution 2014 68:893-900 [[PDF]](Owens2014.pdf)
-..* Faculty of 1000 selection (2 stars)
+* <em>Owens GL</em> and Rieseberg LH: Hybrid incompatibility is acquired faster in annual than in perennial species of sunflower and tarweed. Evolution 2014 68:893-900 [[PDF]](Owens2014.pdf) (**Faculty of 1000 selection (2 stars)**)
  
 * Ostevik K, Moyers BL, <em>Owens GL</em>, Rieseberg LH: Parallel ecological speciation in plants? International Journal of Ecology 2012 [[PDF]](Ostevik2012.pdf)
 
