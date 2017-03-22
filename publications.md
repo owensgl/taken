@@ -6,7 +6,7 @@ permalink: /publications/
 
 * Badouin H, Gouzy J, Grassa CJ, Murat F, Staton E, Cottret L, Lelandais-Brière C, <em>Owens GL</em>... [+53 co-authors] The sunflower genome illuminates the evolutionary history of the Asterids and provides new insights into oil metabolism and flowering time. **Nature** Under Review
 
-* Mondon A\*, <em>Owens GL<em>\*, Poverene M, Cantamutto M, Rieseberg LH: Gene flow in Argentinian sunflowers as revealed by genotyping by sequencing data. **Evolutionary Applications** Under Review (Co-first authors)
+* Mondon A\*, <em>Owens GL</em>\*, Poverene M, Cantamutto M, Rieseberg LH: Gene flow in Argentinian sunflowers as revealed by genotyping by sequencing data. **Evolutionary Applications** Under Review (Co-first authors)
  
 * Samuk K, <em>Owens GL</em>, Miller SE, Delmore, KE, Rennison DJ, Schluter D: Gene flow and selection interact to promote adaptive divergence in regions of low recombination. **Molecular Ecology** Under Review
 
