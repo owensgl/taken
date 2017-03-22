@@ -3,13 +3,14 @@ layout: page
 title: publications
 permalink: /publications/
 ---
-* <em>Owens GL</em>, Rennison DJ: Evolutionary ecology of opsin gene sequence, expression and repertoire. **Molecular Ecology** Under Review
 
 * Badouin H, Gouzy J, Grassa CJ, Murat F, Staton E, Cottret L, Lelandais-Brière C, <em>Owens GL</em>... [+53 co-authors] The sunflower genome illuminates the evolutionary history of the Asterids and provides new insights into oil metabolism and flowering time. **Nature** Under Review
 
-* Samuk K, <em>Owens GL</em>, Miller SE, Delmore, KE, Rennison DJ, Schluter D: Gene flow and selection interact to promote adaptive divergence in regions of low recombination. **PNAS** Under Review
+* Samuk K, <em>Owens GL</em>, Miller SE, Delmore, KE, Rennison DJ, Schluter D: Gene flow and selection interact to promote adaptive divergence in regions of low recombination. **Molecular Ecology** Under Review
 
-* Moyers BT\*, <em>Owens GL</em>\*, Baute GJ, Rieseberg LH: The genetic architecture of UV floral patterning in sunflower. **Annals of Botany** 2016 Accepted (Co-first authors)
+* Moyers BT\*, <em>Owens GL</em>\*, Baute GJ, Rieseberg LH: The genetic architecture of UV floral patterning in sunflower. **Annals of Botany** 2017 In press (Co-first authors)
+
+* <em>Owens GL</em>, Rennison DJ: Evolutionary ecology of opsin gene sequence, expression and repertoire. **Molecular Ecology** 2017 26: 1207-1210 [[PDF]](Owens2017.pdf)
 
 * Baute GJ\*, <em>Owens GL</em>\*, Bock DG, Rieseberg LH: Genome-wide GBS data provide a high-resolution view of wild Helianthus diversity, genetic structure and interspecies gene flow. **American Journal of Botany** 2016 103 1-8. (Co-first authors) [[PDF]](Baute2016.pdf)
 
