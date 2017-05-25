@@ -3,12 +3,13 @@ layout: page
 title: publications
 permalink: /publications/
 ---
+* <em>Owens GL</em>, Todesco M, Drummond EBM, Yeaman S, Rieseberg LH.A novel post hoc method for detecting index switching finds no evidence for increased switching on the Illumina HiSeq X. **BioRxiv** 2017
 
-* Badouin H, Gouzy J, Grassa CJ, Murat F, Staton E, Cottret L, Lelandais-Brière C, <em>Owens GL</em>... [+53 co-authors] The sunflower genome illuminates the evolutionary history of the Asterids and provides new insights into oil metabolism and flowering time. **Nature** Under Review
+* Badouin H, Gouzy J, Grassa CJ, Murat F, Staton E, Cottret L, Lelandais-Brière C, <em>Owens GL</em>... [+53 co-authors] The sunflower genome provides insights into oil metabolism, flowering and Asterid evolution. **Nature** 2017
 
 * Mondon A\*, <em>Owens GL</em>\*, Poverene M, Cantamutto M, Rieseberg LH: Gene flow in Argentinian sunflowers as revealed by genotyping by sequencing data. **Evolutionary Applications** Under Review (Co-first authors)
  
-* Samuk K, <em>Owens GL</em>, Miller SE, Delmore, KE, Rennison DJ, Schluter D: Gene flow and selection interact to promote adaptive divergence in regions of low recombination. **Molecular Ecology** Under Review
+* Samuk K, <em>Owens GL</em>, Miller SE, Delmore, KE, Rennison DJ, Schluter D: Gene flow and selection interact to promote adaptive divergence in regions of low recombination. **Molecular Ecology** Accepted
 
 * Moyers BT\*, <em>Owens GL</em>\*, Baute GJ, Rieseberg LH: The genetic architecture of UV floral patterning in sunflower. **Annals of Botany** 2017 In press (Co-first authors)
 
