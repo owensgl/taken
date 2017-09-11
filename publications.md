@@ -3,6 +3,8 @@ layout: page
 title: publications
 permalink: /publications/
 ---
+* Hübner S, Bercovich N, Todesco M, Mandel JR, Odenheimer J, Ziegler JE, Baute GJ, <em>Owens GL</em>, Grassa CJ, Ebert DP, Ostevik K, Moyers BT, Bowers JE, Calic I, Masalia RR, Kane NC, Swanevelder D, Kubach T, Muños S, Langlade NB, Burke JM, Rieseberg LH: The cultivated sunflower pan- genome provides insights on the contribution of introgression to the breeding of modern varieties. Under review
+
 * <em>Owens GL</em>, Todesco M, Drummond EBM, Yeaman S, Rieseberg LH.A novel post hoc method for detecting index switching finds no evidence for increased switching on the Illumina HiSeq X. **Molecular Ecology Resources** 2017
 
 * Badouin H, Gouzy J, Grassa CJ, Murat F, Staton E, Cottret L, Lelandais-Brière C, <em>Owens GL</em>... [+53 co-authors] The sunflower genome provides insights into oil metabolism, flowering and Asterid evolution. **Nature** 2017 546 148-152 [[PDF]](Badouin2017.pdf)
