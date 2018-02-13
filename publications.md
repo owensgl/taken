@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 * Hübner S, Bercovich N, Todesco M, Mandel JR, Odenheimer J, Ziegler JE, Baute GJ, <em>Owens GL</em>, Grassa CJ, Ebert DP, Ostevik K, Moyers BT, Bowers JE, Calic I, Masalia RR, Kane NC, Swanevelder D, Kubach T, Muños S, Langlade NB, Burke JM, Rieseberg LH: The cultivated sunflower pan- genome provides insights on the contribution of introgression to the breeding of modern varieties. Under review
 
-* <em>Owens GL</em>, Baute GJ, Hübner S, Rieseberg LH: Genomic sequence and copy number evolution during hybrid crop development in sunflowers. Evolutionary Applications. Accepted 
+* <em>Owens GL</em>, Baute GJ, Hübner S, Rieseberg LH: Genomic sequence and copy number evolution during hybrid crop development in sunflowers. **Evolutionary Applications** 2018 
 
 * <em>Owens GL</em>, Todesco M, Drummond EBM, Yeaman S, Rieseberg LH.A novel post hoc method for detecting index switching finds no evidence for increased switching on the Illumina HiSeq X. **Molecular Ecology Resources** 2017
 
