@@ -1,3 +1,9 @@
+---
+layout: page
+title: machine_learning
+permalink: /machine_learning/
+---
+
 Introduction to Machine Learning
 ================
 
