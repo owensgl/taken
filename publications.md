@@ -3,7 +3,11 @@ layout: page
 title: publications
 permalink: /publications/
 ---
-* Hübner S, Bercovich N, Todesco M, Mandel JR, Odenheimer J, Ziegler JE, Baute GJ, <em>Owens GL</em>, Grassa CJ, Ebert DP, Ostevik K, Moyers BT, Bowers JE, Calic I, Masalia RR, Kane NC, Swanevelder D, Kubach T, Muños S, Langlade NB, Burke JM, Rieseberg LH: The cultivated sunflower pan- genome provides insights on the contribution of introgression to the breeding of modern varieties. Under review
+* Mitchell N, <em>Owens GL</em>, Hovick SM, Rieseberg LH, Whitney KD: Hybridization speeds adaptive evolution in an eight-year field experiment. Under review.
+
+* Imerovski I, Dedić B, Cvejić S, Miladinović D, Jocić S, <em>Owens GL</em>, Tubić NK; Rieseberg LH: BSA-seq mapping reveals major QTL for broomrape resistance in four sunflower lines. Under review.
+
+* Hübner S, Bercovich N, Todesco M, Mandel JR, Odenheimer J, Ziegler JE, Baute GJ, <em>Owens GL</em>, Grassa CJ, Ebert DP, Ostevik K, Moyers BT, Bowers JE, Calic I, Masalia RR, Kane NC, Swanevelder D, Kubach T, Muños S, Langlade NB, Burke JM, Rieseberg LH: The cultivated sunflower pan- genome provides insights on the contribution of introgression to the breeding of modern varieties. **Nature Plants** 2018
 
 * <em>Owens GL</em>, Baute GJ, Hübner S, Rieseberg LH: Genomic sequence and copy number evolution during hybrid crop development in sunflowers. **Evolutionary Applications** 2018 
 
