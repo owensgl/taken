@@ -3,6 +3,8 @@ layout: page
 title: publications
 permalink: /publications/
 ---
+* Rojas-Barrera IC, Wegier A,  Sánchez-González JJ, <em>Owens GL</em>, Rieseberg LH, Pinero D: Ongoing evolution of maize (Zea mays L.) landraces and their wild relatives: Gene flow with modern maize varieties. Under review.
+
 * Mitchell N, <em>Owens GL</em>, Hovick SM, Rieseberg LH, Whitney KD: Hybridization speeds adaptive evolution in an eight-year field experiment. Under review.
 
 * Imerovski I, Dedić B, Cvejić S, Miladinović D, Jocić S, <em>Owens GL</em>, Tubić NK; Rieseberg LH: BSA-seq mapping reveals major QTL for broomrape resistance in four sunflower lines. Under review.
