@@ -3,13 +3,17 @@ layout: page
 title: publications
 permalink: /publications/
 ---
+* Rennison DJ, Delmore KE, Samuk K, <em>Owens GL<em>, Miller SE: Parallel selection and geographic proximity predict shared patterns of genome-wide differentiation after colonization of novel environments. Under review.
+
 * Rojas-Barrera IC, Wegier A,  Sánchez-González JJ, <em>Owens GL</em>, Rieseberg LH, Pinero D: Ongoing evolution of maize (Zea mays L.) landraces and their wild relatives: Gene flow with modern maize varieties. Under review.
 
 * Mitchell N, <em>Owens GL</em>, Hovick SM, Rieseberg LH, Whitney KD: Hybridization speeds adaptive evolution in an eight-year field experiment. Under review.
 
-* Imerovski I, Dedić B, Cvejić S, Miladinović D, Jocić S, <em>Owens GL</em>, Tubić NK; Rieseberg LH: BSA-seq mapping reveals major QTL for broomrape resistance in four sunflower lines. Under review.
+* <em>Owens GL<em>, Samuk K: Adaptive introgression during environmental change can weaken reproductive	isolation. **BioRxiv** 2019
 
-* Hübner S, Bercovich N, Todesco M, Mandel JR, Odenheimer J, Ziegler JE, Baute GJ, <em>Owens GL</em>, Grassa CJ, Ebert DP, Ostevik K, Moyers BT, Bowers JE, Calic I, Masalia RR, Kane NC, Swanevelder D, Kubach T, Muños S, Langlade NB, Burke JM, Rieseberg LH: The cultivated sunflower pan- genome provides insights on the contribution of introgression to the breeding of modern varieties. **Nature Plants** 2018
+* Imerovski I, Dedić B, Cvejić S, Miladinović D, Jocić S, <em>Owens GL</em>, Tubić NK; Rieseberg LH: BSA-seq mapping reveals major QTL for broomrape resistance in four sunflower lines. **Molecular Breeding** 2019
+
+* Hübner S, Bercovich N, Todesco M, Mandel JR, Odenheimer J, Ziegler JE, Baute GJ, <em>Owens GL</em>, Grassa CJ, Ebert DP, Ostevik K, Moyers BT, Bowers JE, Calic I, Masalia RR, Kane NC, Swanevelder D, Kubach T, Muños S, Langlade NB, Burke JM, Rieseberg LH: The cultivated sunflower pan- genome provides insights on the contribution of introgression to the breeding of modern varieties. **Nature Plants** 2019
 
 * <em>Owens GL</em>, Baute GJ, Hübner S, Rieseberg LH: Genomic sequence and copy number evolution during hybrid crop development in sunflowers. **Evolutionary Applications** 2018 
 
