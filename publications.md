@@ -9,7 +9,7 @@ permalink: /publications/
 
 * Mitchell N, <em>Owens GL</em>, Hovick SM, Rieseberg LH, Whitney KD: Hybridization speeds adaptive evolution in an eight-year field experiment. Under review.
 
-* <em>Owens GL</em>, Samuk K: Adaptive introgression during environmental change can weaken reproductive	isolation: **BioRxiv** 2019
+* <em>Owens GL</em>, Samuk K: Adaptive introgression during environmental change can weaken reproductive	isolation. **BioRxiv** 2019
 
 * Imerovski I, Dedić B, Cvejić S, Miladinović D, Jocić S, <em>Owens GL</em>, Tubić NK, Rieseberg LH: BSA-seq mapping reveals major QTL for broomrape resistance in four sunflower lines. **Molecular Breeding** 2019
 
