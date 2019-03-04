@@ -3,7 +3,7 @@ layout: page
 title: publications
 permalink: /publications/
 ---
-* Rennison DJ, Delmore KE, Samuk K, <em>Owens GL<em>, Miller SE: Parallel selection and geographic proximity predict shared patterns of genome-wide differentiation after colonization of novel environments. Under review.
+* Rennison DJ, Delmore KE, Samuk K, <em>Owens GL</em>, Miller SE: Parallel selection and geographic proximity predict shared patterns of genome-wide differentiation after colonization of novel environments. Under review.
 
 * Rojas-Barrera IC, Wegier A,  Sánchez-González JJ, <em>Owens GL</em>, Rieseberg LH, Pinero D: Ongoing evolution of maize (Zea mays L.) landraces and their wild relatives: Gene flow with modern maize varieties. Under review.
 
