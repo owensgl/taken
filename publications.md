@@ -11,17 +11,17 @@ permalink: /publications/
 
 * <em>Owens GL</em>, Samuk K: Adaptive introgression during environmental change can weaken reproductive	isolation. **BioRxiv** 2019 [[PDF]](https://www.biorxiv.org/content/biorxiv/early/2019/02/18/553230.full.pdf)
 
-* Imerovski I, Dedić B, Cvejić S, Miladinović D, Jocić S, <em>Owens GL</em>, Tubić NK, Rieseberg LH: BSA-seq mapping reveals major QTL for broomrape resistance in four sunflower lines. **Molecular Breeding** 2019 
+* Imerovski I, Dedić B, Cvejić S, Miladinović D, Jocić S, <em>Owens GL</em>, Tubić NK, Rieseberg LH: BSA-seq mapping reveals major QTL for broomrape resistance in four sunflower lines. **Molecular Breeding** 2019 [[PDF]](Imerovski2019.pdf)
 
-* Hübner S, Bercovich N, Todesco M, Mandel JR, Odenheimer J, Ziegler JE, Baute GJ, <em>Owens GL</em>, Grassa CJ, Ebert DP, Ostevik K, Moyers BT, Bowers JE, Calic I, Masalia RR, Kane NC, Swanevelder D, Kubach T, Muños S, Langlade NB, Burke JM, Rieseberg LH: The cultivated sunflower pan- genome provides insights on the contribution of introgression to the breeding of modern varieties. **Nature Plants** 2019
+* Hübner S, Bercovich N, Todesco M, Mandel JR, Odenheimer J, Ziegler JE, Baute GJ, <em>Owens GL</em>, Grassa CJ, Ebert DP, Ostevik K, Moyers BT, Bowers JE, Calic I, Masalia RR, Kane NC, Swanevelder D, Kubach T, Muños S, Langlade NB, Burke JM, Rieseberg LH: Sunflower pan-genome analysis shows that hybridization altered gene content and disease resistance. **Nature Plants** 2019 [[PDF]](Hubner2019.pdf)
 
-* <em>Owens GL</em>, Baute GJ, Hübner S, Rieseberg LH: Genomic sequence and copy number evolution during hybrid crop development in sunflowers. **Evolutionary Applications** 2018 
+* <em>Owens GL</em>, Baute GJ, Hübner S, Rieseberg LH: Genomic sequence and copy number evolution during hybrid crop development in sunflowers. **Evolutionary Applications** 2019 [[PDF]](Owens2019.pdf) 
 
-* <em>Owens GL</em>, Todesco M, Drummond EBM, Yeaman S, Rieseberg LH: A novel post hoc method for detecting index switching finds no evidence for increased switching on the Illumina HiSeq X. **Molecular Ecology Resources** 2017
+* <em>Owens GL</em>, Todesco M, Drummond EBM, Yeaman S, Rieseberg LH: A novel post hoc method for detecting index switching finds no evidence for increased switching on the Illumina HiSeq X. **Molecular Ecology Resources** 2018 [[PDF]](Owens2018.pdf)
 
 * Badouin H, Gouzy J, Grassa CJ, Murat F, Staton E, Cottret L, Lelandais-Brière C, <em>Owens GL</em>... [+53 co-authors] The sunflower genome provides insights into oil metabolism, flowering and Asterid evolution. **Nature** 2017 546 148-152 [[PDF]](Badouin2017.pdf)
 
-* Mondon A\*, <em>Owens GL</em>\*, Poverene M, Cantamutto M, Rieseberg LH: Gene flow in Argentinian sunflowers as revealed by genotyping by sequencing data. **Evolutionary Applications** 2017 (Co-first authors)
+* Mondon A\*, <em>Owens GL</em>\*, Poverene M, Cantamutto M, Rieseberg LH: Gene flow in Argentinian sunflowers as revealed by genotyping by sequencing data. **Evolutionary Applications** 2017 (Co-first authors) [[Mondon2017.pdf)
  
 * Samuk K, <em>Owens GL</em>, Miller SE, Delmore, KE, Rennison DJ, Schluter D: Gene flow and selection interact to promote adaptive divergence in regions of low recombination. **Molecular Ecology** 2017 [[PDF]](Samuk2017.pdf)
 
