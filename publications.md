@@ -3,11 +3,11 @@ layout: page
 title: publications
 permalink: /publications/
 ---
-* Rennison DJ, Delmore KE, Samuk K, <em>Owens GL</em>, Miller SE: Parallel selection and geographic proximity predict shared patterns of genome-wide differentiation after colonization of novel environments. Under review.
+* Rennison DJ, Delmore KE, Samuk K, <em>Owens GL</em>, Miller SE: Parallel selection and geographic proximity predict shared patterns of genome-wide differentiation after colonization of novel environments. **American Naturalist** In press
 
-* Rojas-Barrera IC, Wegier A,  Sánchez-González JJ, <em>Owens GL</em>, Rieseberg LH, Pinero D: Ongoing evolution of maize (Zea mays L.) landraces and their wild relatives: Gene flow with modern maize varieties. Under review.
+* Rojas-Barrera IC, Wegier A,  Sánchez-González JJ, <em>Owens GL</em>, Rieseberg LH, Pinero D: Ongoing evolution of maize (Zea mays L.) landraces and their wild relatives: Gene flow with modern maize varieties. **PNAS** Accepted
 
-* Mitchell N, <em>Owens GL</em>, Hovick SM, Rieseberg LH, Whitney KD: Hybridization speeds adaptive evolution in an eight-year field experiment. Under review.
+* Mitchell N, <em>Owens GL</em>, Hovick SM, Rieseberg LH, Whitney KD: Hybridization speeds adaptive evolution in an eight-year field experiment. **Scientific Reports** In press
 
 * <em>Owens GL</em>, Samuk K: Adaptive introgression during environmental change can weaken reproductive	isolation. **BioRxiv** 2019 [[PDF]](https://www.biorxiv.org/content/biorxiv/early/2019/02/18/553230.full.pdf)
 
