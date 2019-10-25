@@ -3,7 +3,7 @@ layout: page
 title: publications
 permalink: /publications/
 ---
-* Todesco M\*, <em>Owens GL\*<\em>, Bercovich N\*, Légaré JS, Soudi S, Burge DO, Huang K, Ostevik KL, Drummond EBM, Imerovski I, Lande K, Pascual MA, Cheung W, Staton SE, Muños S, Nielsen R, Donovan LA, Burke JM, Yeaman S, Rieseberg LH: Massive haplotypes underlie ecotypic differentiation in sunflowers. **BioRxiv** (Co-first authors) [[PDF]](https://www.biorxiv.org/content/early/2019/10/02/790279.full.pdf)
+* Todesco M\*, <em>Owens GL\* <\em>, Bercovich N\*, Légaré JS, Soudi S, Burge DO, Huang K, Ostevik KL, Drummond EBM, Imerovski I, Lande K, Pascual MA, Cheung W, Staton SE, Muños S, Nielsen R, Donovan LA, Burke JM, Yeaman S, Rieseberg LH: Massive haplotypes underlie ecotypic differentiation in sunflowers. **BioRxiv** (Co-first authors) [[PDF]](https://www.biorxiv.org/content/early/2019/10/02/790279.full.pdf)
  
 * Rennison DJ, Delmore KE, Samuk K, <em>Owens GL</em>, Miller SE: Parallel selection and geographic proximity predict shared patterns of genome-wide differentiation after colonization of novel environments. **American Naturalist** 2019  [[PDF]](Rennison2019pre.pdf)
 
