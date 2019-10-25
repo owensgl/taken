@@ -3,13 +3,15 @@ layout: page
 title: publications
 permalink: /publications/
 ---
-* Rennison DJ, Delmore KE, Samuk K, <em>Owens GL</em>, Miller SE: Parallel selection and geographic proximity predict shared patterns of genome-wide differentiation after colonization of novel environments. **American Naturalist** In press
+* Todesco M\*, <em>Owens GL\*<\em>, Bercovich N\*, Légaré JS, Soudi S, Burge DO, Huang K, Ostevik KL, Drummond EBM, Imerovski I, Lande K, Pascual MA, Cheung W, Staton SE, Muños S, Nielsen R, Donovan LA, Burke JM, Yeaman S, Rieseberg LH: Massive haplotypes underlie ecotypic differentiation in sunflowers. **BioRxiv** (Co-first authors) [[PDF]](https://www.biorxiv.org/content/early/2019/10/02/790279.full.pdf)
+ 
+* Rennison DJ, Delmore KE, Samuk K, <em>Owens GL</em>, Miller SE: Parallel selection and geographic proximity predict shared patterns of genome-wide differentiation after colonization of novel environments. **American Naturalist** 2019  [[PDF]](Rennison2019pre.pdf)
 
-* Rojas-Barrera IC, Wegier A,  Sánchez-González JJ, <em>Owens GL</em>, Rieseberg LH, Pinero D: Ongoing evolution of maize (Zea mays L.) landraces and their wild relatives: Gene flow with modern maize varieties. **PNAS** Accepted
+* Rojas-Barrera IC, Wegier A,  Sánchez-González JJ, <em>Owens GL</em>, Rieseberg LH, Pinero D: Ongoing evolution of maize (Zea mays L.) landraces and their wild relatives: Gene flow with modern maize varieties. **PNAS** 2019 [[PDF]](Rojas-Barrera2019.pdf)
 
-* Mitchell N, <em>Owens GL</em>, Hovick SM, Rieseberg LH, Whitney KD: Hybridization speeds adaptive evolution in an eight-year field experiment. **Scientific Reports** In press
+* Mitchell N, <em>Owens GL</em>, Hovick SM, Rieseberg LH, Whitney KD: Hybridization speeds adaptive evolution in an eight-year field experiment. **Scientific Reports**  2019 [[PDF]](Mitchell2019.pdf)
 
-* <em>Owens GL</em>, Samuk K: Adaptive introgression during environmental change can weaken reproductive	isolation. **BioRxiv** 2019 [[PDF]](https://www.biorxiv.org/content/biorxiv/early/2019/02/18/553230.full.pdf)
+* <em>Owens GL</em>, Samuk K: Adaptive introgression during environmental change can weaken reproductive	isolation. **Nature Climate Change + BioRxiv** 2019 [[PDF]](https://www.biorxiv.org/content/biorxiv/early/2019/02/18/553230.full.pdf)
 
 * Imerovski I, Dedić B, Cvejić S, Miladinović D, Jocić S, <em>Owens GL</em>, Tubić NK, Rieseberg LH: BSA-seq mapping reveals major QTL for broomrape resistance in four sunflower lines. **Molecular Breeding** 2019 [[PDF]](Imerovski2019.pdf)
 
